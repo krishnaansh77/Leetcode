@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishnaansh77/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/krishnaansh77/Leetcode/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/krishnaansh77/Leetcode/tree/master/0414-third-maximum-number) |
 | [0896-monotonic-array](https://github.com/krishnaansh77/Leetcode/tree/master/0896-monotonic-array) |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/krishnaansh77/Leetcode/tree/master/0058-length-of-last-word) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/krishnaansh77/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
