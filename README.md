@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishnaansh77/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/krishnaansh77/Leetcode/tree/master/0066-plus-one) |
 | [0229-majority-element-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/krishnaansh77/Leetcode/tree/master/0414-third-maximum-number) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/krishnaansh77/Leetcode/tree/master/0414-third-maximum-number) |
 ## Math
@@ -22,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/krishnaansh77/Leetcode/tree/master/0058-length-of-last-word) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishnaansh77/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
