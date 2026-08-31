@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/krishnaansh77/Leetcode/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/krishnaansh77/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishnaansh77/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/krishnaansh77/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishnaansh77/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
