@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/krishnaansh77/Leetcode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnaansh77/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/krishnaansh77/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishnaansh77/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/krishnaansh77/Leetcode/tree/master/0414-third-maximum-number) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/krishnaansh77/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishnaansh77/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/krishnaansh77/Leetcode/tree/master/0414-third-maximum-number) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnaansh77/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/krishnaansh77/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/krishnaansh77/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishnaansh77/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
