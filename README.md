@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishnaansh77/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishnaansh77/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/krishnaansh77/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/krishnaansh77/Leetcode/tree/master/0414-third-maximum-number) |
 | [0454-4sum-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0454-4sum-ii) |
 | [0896-monotonic-array](https://github.com/krishnaansh77/Leetcode/tree/master/0896-monotonic-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishnaansh77/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishnaansh77/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/krishnaansh77/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/krishnaansh77/Leetcode/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishnaansh77/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishnaansh77/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/krishnaansh77/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0454-4sum-ii) |
 | [0771-jewels-and-stones](https://github.com/krishnaansh77/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Counting
@@ -91,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/krishnaansh77/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/krishnaansh77/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/krishnaansh77/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
