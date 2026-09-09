@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/krishnaansh77/Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/krishnaansh77/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnaansh77/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/krishnaansh77/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/krishnaansh77/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/krishnaansh77/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
