@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishnaansh77/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/krishnaansh77/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/krishnaansh77/Leetcode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnaansh77/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishnaansh77/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/krishnaansh77/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnaansh77/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/krishnaansh77/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -114,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/krishnaansh77/Leetcode/tree/master/0036-valid-sudoku) |
 | [1672-richest-customer-wealth](https://github.com/krishnaansh77/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
