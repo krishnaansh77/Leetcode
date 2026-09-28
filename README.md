@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/krishnaansh77/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/krishnaansh77/Leetcode/tree/master/0414-third-maximum-number) |
 | [0454-4sum-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0454-4sum-ii) |
+| [0706-design-hashmap](https://github.com/krishnaansh77/Leetcode/tree/master/0706-design-hashmap) |
 | [0896-monotonic-array](https://github.com/krishnaansh77/Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/krishnaansh77/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnaansh77/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/krishnaansh77/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/krishnaansh77/Leetcode/tree/master/0383-ransom-note) |
 | [0454-4sum-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0454-4sum-ii) |
+| [0706-design-hashmap](https://github.com/krishnaansh77/Leetcode/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/krishnaansh77/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Counting
 |  |
@@ -118,4 +120,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/krishnaansh77/Leetcode/tree/master/0036-valid-sudoku) |
 | [1672-richest-customer-wealth](https://github.com/krishnaansh77/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/krishnaansh77/Leetcode/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/krishnaansh77/Leetcode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/krishnaansh77/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
