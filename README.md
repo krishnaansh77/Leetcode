@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishnaansh77/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/krishnaansh77/Leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/krishnaansh77/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/krishnaansh77/Leetcode/tree/master/0066-plus-one) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/krishnaansh77/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/krishnaansh77/Leetcode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaansh77/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
