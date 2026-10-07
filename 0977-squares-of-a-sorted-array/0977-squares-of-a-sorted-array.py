@@ -1,12 +1,13 @@
 class Solution(object):
     def sortedSquares(self, nums):
         n=len(nums)
+        res=[0]*n
         left=0
         right=n-1
-        res=[0]*n
         pos=n-1
+
         while left<=right:
-            if abs(nums[left])>abs(nums[right]):
+            if abs(nums[left])>(nums[right]):
                 res[pos]=nums[left]**2
                 left+=1
             else:
@@ -15,3 +16,7 @@ class Solution(object):
             pos-=1
         return res
 
+
+
+
+        
