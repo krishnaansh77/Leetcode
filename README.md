@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/krishnaansh77/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/krishnaansh77/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/krishnaansh77/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishnaansh77/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnaansh77/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/krishnaansh77/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/krishnaansh77/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/krishnaansh77/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/krishnaansh77/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/krishnaansh77/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishnaansh77/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/krishnaansh77/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0229-majority-element-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/krishnaansh77/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnaansh77/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishnaansh77/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/krishnaansh77/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishnaansh77/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/krishnaansh77/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krishnaansh77/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -176,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnaansh77/Leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/krishnaansh77/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/krishnaansh77/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
