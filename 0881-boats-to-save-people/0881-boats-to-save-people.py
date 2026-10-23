@@ -1,12 +1,13 @@
 class Solution(object):
     def numRescueBoats(self, people, limit):
         people.sort()
+        n=len(people)
         left=0
-        right=len(people)-1
+        right=n-1
         count=0
-
         while left<=right:
-            if people[left]+people[right]<=limit:
+            w=people[left]+people[right]
+            if w<=limit:
                 count+=1
                 left+=1
                 right-=1
