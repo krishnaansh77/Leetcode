@@ -1,14 +1,20 @@
 class Solution(object):
     def isSubsequence(self, s, t):
-       left=0
-       right=0
-       while left<len(t) and right<len(s):
-        if t[left]==s[right]:
-            left+=1
+        if len(s)==0:
+            return True
+        if len(t)==0:
+            return False
+        left=0
+        right=0
+        while right<len(t):
+            if s[left]==t[right]:
+                left+=1
+                if left==len(s):
+                    return True
             right+=1
-        else:
-            left+=1
-       if right==len(s):
-        return True
-       else:
+        
         return False
+       
+       
+       
+        
