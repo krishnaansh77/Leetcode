@@ -5,11 +5,11 @@ class Solution(object):
         k=0
         while right<len(nums):
             if nums[right]!=val:
-                nums[left],nums[right]=nums[right],nums[left]
+                nums[left]=nums[right]
                 left+=1
                 k+=1
             right+=1 
-        return k
+        return left
             
             
 
