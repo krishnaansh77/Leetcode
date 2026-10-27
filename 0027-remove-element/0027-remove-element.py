@@ -1,8 +1,15 @@
 class Solution(object):
     def removeElement(self, nums, val):
-        slow=0
-        for fast in range(len(nums)):
-            if nums[fast]!=val:
-                nums[slow]=nums[fast]
-                slow+=1
-        return slow
+        left=0
+        right=0
+        k=0
+        while right<len(nums):
+            if nums[right]!=val:
+                nums[left],nums[right]=nums[right],nums[left]
+                left+=1
+                k+=1
+            right+=1 
+        return k
+            
+            
+
