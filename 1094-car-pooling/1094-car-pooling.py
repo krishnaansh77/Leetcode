@@ -1,18 +1,20 @@
-class Solution(object):
-    def carPooling(self, trips, capacity):
-        current=[0]*1001
+class Solution:
+    def carPooling(self, trips: list[list[int]], capacity: int) -> bool:
+        event=[]
 
-        for passengers,start,end in trips:
-            current[start]+=passengers
-            current[end]-=passengers
+        for passenger,first,last in trips:
+            event.append([first,passenger])
+            event.append([last,-passenger])
 
-        maximum=max(trip[2]for trip in trips)
-        total_passengers=0
+        event.sort()
+       
+        cumsum=0
 
-        for i in range(maximum+1):
-            total_passengers+=current[i]
-            if total_passengers>capacity:
+        for i in range(len(event)):
+            cumsum+=event[i][1]
+            if cumsum>capacity:
                 return False
         return True
+
 
         
