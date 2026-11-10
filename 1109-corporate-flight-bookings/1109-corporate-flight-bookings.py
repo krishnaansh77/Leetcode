@@ -1,27 +1,19 @@
 class Solution(object):
     def corpFlightBookings(self, bookings, n):
-        events = []
+        diff = [0] * (n + 1)
 
         for first, last, seats in bookings:
-            events.append([first, seats])
-            events.append([last + 1, -seats])
+            diff[first - 1] += seats
+            if last < n:
+                diff[last] -= seats
 
-        events.sort()
-
-        ans = [0] * (n + 1)
-        j = 0
+        ans = [0] * n
         total = 0
 
-        for i in range(1, n + 1):
-            while j < len(events) and i == events[j][0]:
-                total += events[j][1]
-                j += 1
-
+        for i in range(n):
+            total += diff[i]
             ans[i] = total
 
-        return ans[1:]
-            
-
-        return ans[1:]
+        return ans
 
         
