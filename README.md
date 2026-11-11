@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/krishnaansh77/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/krishnaansh77/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnaansh77/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2381-shifting-letters-ii](https://github.com/krishnaansh77/Leetcode/tree/master/2381-shifting-letters-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/krishnaansh77/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/krishnaansh77/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/krishnaansh77/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2381-shifting-letters-ii](https://github.com/krishnaansh77/Leetcode/tree/master/2381-shifting-letters-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/krishnaansh77/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnaansh77/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnaansh77/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2381-shifting-letters-ii](https://github.com/krishnaansh77/Leetcode/tree/master/2381-shifting-letters-ii) |
 ## Matrix
 |  |
 | ------- |
