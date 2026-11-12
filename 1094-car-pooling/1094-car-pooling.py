@@ -1,20 +1,20 @@
-class Solution:
-    def carPooling(self, trips: list[list[int]], capacity: int) -> bool:
-        event=[]
-
+#Sweep Line Algorithm(pair)
+class Solution(object):
+    def carPooling(self, trips, capacity):
+        arr=[]
         for passenger,first,last in trips:
-            event.append([first,passenger])
-            event.append([last,-passenger])
+            arr.append([first,passenger])
+            arr.append([last,-passenger])
+            #note we used last instead of last+1,because the passengers left at index last
 
-        event.sort()
-       
         cumsum=0
-
-        for i in range(len(event)):
-            cumsum+=event[i][1]
+        arr.sort()
+        for i in range(len(arr)):
+            cumsum+=arr[i][1]
             if cumsum>capacity:
                 return False
         return True
+        
 
-
+        
         
