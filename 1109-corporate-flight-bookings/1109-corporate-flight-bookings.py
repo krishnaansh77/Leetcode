@@ -1,19 +1,19 @@
-class Solution(object):
-    def corpFlightBookings(self, bookings, n):
-        diff = [0] * (n + 1)
+class Solution:
+    def corpFlightBookings(self, bookings: list[list[int]], n: int) -> list[int]:
+        diff=[0]*(n+2)
 
-        for first, last, seats in bookings:
-            diff[first - 1] += seats
-            if last < n:
-                diff[last] -= seats
+        for first,last,seats in bookings:
+            diff[first]+=seats
+            diff[last+1]-=seats
 
-        ans = [0] * n
-        total = 0
+        total=0
+        ans=[]
 
-        for i in range(n):
-            total += diff[i]
-            ans[i] = total
+        for i in range(1,n+1):
+            total+=diff[i]
+            ans.append(total)
 
         return ans
+
 
         
