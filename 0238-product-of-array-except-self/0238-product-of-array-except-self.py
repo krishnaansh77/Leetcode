@@ -1,22 +1,22 @@
 class Solution:
     def productExceptSelf(self, nums):
         n=len(nums)
-        ans=[]
+        ans=[1]*n
         
-        prefix=[1]*len(nums)
-        prev=1
+        
+        prefix=1
         for i in range(n):
-            prefix[i]=prev
-            prev=prefix[i]*nums[i]
+            ans[i]=prefix
+            prefix=prefix*nums[i]
 
-        suffix=[1]*len(nums)
-        prev=1
+        
+        suffix=1
         for j in range(n-1,-1,-1):
-            suffix[j]=prev
-            prev=suffix[j]*nums[j]
+            
+            ans[j]=suffix*ans[j]
+            suffix=suffix*nums[j]
+            
 
 
-        for k in range(n):
-            ans.append(prefix[k]*suffix[k])
-
+        
         return ans
