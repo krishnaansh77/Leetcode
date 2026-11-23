@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/krishnaansh77/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnaansh77/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2381-shifting-letters-ii](https://github.com/krishnaansh77/Leetcode/tree/master/2381-shifting-letters-ii) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/krishnaansh77/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/krishnaansh77/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/krishnaansh77/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2381-shifting-letters-ii](https://github.com/krishnaansh77/Leetcode/tree/master/2381-shifting-letters-ii) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/krishnaansh77/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/krishnaansh77/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnaansh77/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2381-shifting-letters-ii](https://github.com/krishnaansh77/Leetcode/tree/master/2381-shifting-letters-ii) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/krishnaansh77/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Matrix
 |  |
 | ------- |
